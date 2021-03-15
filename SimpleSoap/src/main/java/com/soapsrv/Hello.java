@@ -4,7 +4,7 @@ import javax.jws.WebMethod;
 import javax.jws.WebService;
 import javax.jws.soap.SOAPBinding;
 
-//http://localhost:8080/simpleservletTest/Soap/Hello
+//http://localhost:8080/SimpleSoap/soap/Hello
 
 @WebService()
 @SOAPBinding(style = SOAPBinding.Style.RPC)
